@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="jenpdf1"
+      id="5a9d3e7b-f7a3-4f91-878e-44083bb3c829"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="jenpdf1"
+      id="5a9d3e7b-f7a3-4f91-878e-44083bb3c829"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>
